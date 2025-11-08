@@ -19,7 +19,7 @@ else if($action == 4) divide();
 else if($action == 5) exponentiate();
 
 function display($a, $b) {
-
+    //эм и это тоже ок
 }
 function add($a, $b) {
     
@@ -28,7 +28,7 @@ function substract($a, $b) {
     
 }
 function divide($a, $b) {
-    
+    //переделывай
 }
 function exponentiate($a, $b) {
     
